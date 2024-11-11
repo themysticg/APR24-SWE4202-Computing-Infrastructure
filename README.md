@@ -59,7 +59,15 @@ Evaluate Efficiency: Test the network’s efficiency and robustness in the simul
 Optimize: Adjust the setup based on test results to ensure optimal performance.
 
 ### Deliverables
-- Network Design Diagrams: Detailed diagrams from Cisco Packet Tracer. 
-- System Analysis: Document the current setup and propose improvements. 
-- Testing Results: Summarize the performance tests and any necessary optimizations. 
-- Deployment Plan: A clear plan for implementation, including timelines and resources. 
+* [ ] Network Design Diagrams
+
+* [ ] System Analysis
+
+* [ ] Testing Results
+
+* [ ] Deployment Plan
+
+- **Network Design Diagrams**: Detailed diagrams from Cisco Packet Tracer. 
+- **System Analysis**: Document the current setup and propose improvements. 
+- **Testing Results**: Summarize the performance tests and any necessary optimizations. 
+- **Deployment Plan**: A clear plan for implementation, including timelines and resources. 
