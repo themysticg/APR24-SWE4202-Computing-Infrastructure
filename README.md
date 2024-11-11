@@ -1,7 +1,7 @@
 # APR24-SWE4202-Computing-Infrastructure
  
 ## Assignment
-1. Understand Company Needs - [❌]
+1. Understand Company Needs * [ ]
 Assess Future Requirements: Identify the current and future growth plans, especially for the new Liverpool office.
 Gather Stakeholder Insights: Talk to stakeholders across departments to understand specific infrastructure needs for each area (e.g., performance, data handling, storage, security).
 
