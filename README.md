@@ -1,5 +1,7 @@
 # APR24-SWE4202-Computing-Infrastructure
 
+## Task 1
+
 * [ ] Understand Company Needs
 
 * [ ] Evaluate Current IT Setup
@@ -71,3 +73,49 @@ Optimize: Adjust the setup based on test results to ensure optimal performance.
 - **System Analysis**: Document the current setup and propose improvements. 
 - **Testing Results**: Summarize the performance tests and any necessary optimizations. 
 - **Deployment Plan**: A clear plan for implementation, including timelines and resources. 
+
+## Task 2
+
+* [ ] Analyse Cloud Costs
+
+* [ ] Plan for Mobility and Remote Access
+
+* [ ] Evaluate Current Cloud Skills
+
+* [ ] Ensure Scalability and Security
+
+* [ ] Cloud Storage and Backup
+
+**Scenario:**
+TechXcel is shifting to a cloud-first approach to increase flexibility and reduce costs. You are
+required to create a strategy for this migration.
+Steps:
+
+1. Analyse Cloud Costs:
+- What are the costs of migrating to the cloud?
+- Look at both the short-term (migration) and long-term (maintenance) expenses.
+
+2. Plan for Mobility and Remote Access:
+- How will employees work remotely?
+- Consider application portability, data accessibility, and network readiness.
+
+3. Evaluate Current Cloud Skills:
+- Assess the team’s cloud management skills.
+- Suggest training programs to bridge any gaps.
+
+4. Ensure Scalability and Security:
+- Plan for scalable cloud solutions that can grow with the company.
+- Implement strong security measures for cloud data protection.
+
+5. Cloud Storage and Backup:
+- Ensure reliable cloud storage and backup processes.
+- Plan for disaster recovery in case of failure.
+
+### Deliverables:
+* [ ] Detailed cloud adoption strategy
+
+* [ ] Use Cisco Packet Tracer
+
+- A detailed cloud adoption strategy that addresses cost, scalability, security, and
+performance.
+- Use Cisco Packet Tracer to visualize the network's connection to cloud resources.
