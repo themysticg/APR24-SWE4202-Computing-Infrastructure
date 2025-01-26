@@ -119,3 +119,6 @@ Steps:
 - A detailed cloud adoption strategy that addresses cost, scalability, security, and
 performance.
 - Use Cisco Packet Tracer to visualize the network's connection to cloud resources.
+
+## Task 3
+
